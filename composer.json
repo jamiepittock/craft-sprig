@@ -8,7 +8,7 @@
     "php": "^8.2",
     "craftcms/cms": "^5.0",
     "nystudio107/craft-code-editor": "^1.0",
-    "putyourlightson/craft-sprig-core": "3.0.1"
+    "putyourlightson/craft-sprig-core": "dev-develop#4c71a6e6be6063bd32889b194a5b0d684943382f"
   },
   "require-dev": {
     "craftcms/ecs": "dev-main",
